@@ -80,10 +80,10 @@ To run the project, execute the following command:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Aisha Alselwi**
-👤 **Afimia Fidelis Izebiafe**
-
 - GitHub: [Aisha Alselwi](https://github.com/AlselwiAisha/)
 - LinkedIn: [Aisha Alselwi](https://www.linkedin.com/in/aisha-alselwi/)
+
+👤 **Afimia Fidelis Izebiafe**
 - GitHub: [Izebiafe](https://github.com/AlselwiAisha/)
 - LinkedIn: [Afimia Fidelis](https://www.linkedin.com/in/Izebiafe/)
 
