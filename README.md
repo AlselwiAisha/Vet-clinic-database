@@ -84,7 +84,7 @@ To run the project, execute the following command:
 - LinkedIn: [Aisha Alselwi](https://www.linkedin.com/in/aisha-alselwi/)
 
 👤 **Afimia Fidelis Izebiafe**
-- GitHub: [Izebiafe](https://github.com/AlselwiAisha/)
+- GitHub: [Izebiafe](https://github.com/Izebiafe/)
 - LinkedIn: [Afimia Fidelis](https://www.linkedin.com/in/Izebiafe/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
