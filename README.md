@@ -1,6 +1,5 @@
 # Vet Clinic Database
 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -26,7 +25,7 @@
 
 # [Vet Clinic Database] <a name="about-project"></a>
 
-The Vet Clinic database, created with PostgreSQL, stores essential information about animals. It keeps track of details like their names, birthdates, and any escape attempts. 
+The Vet Clinic database, created with PostgreSQL, stores essential information about animals. It keeps track of details like their names, birthdates, and any escape attempts.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +50,6 @@ The Vet Clinic database, created with PostgreSQL, stores essential information a
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -64,12 +62,10 @@ PostgreSQL installed in your machine.
 
 Clone this repository to your desired folder:
 
-
 ```sh
   git clone https://github.com/AlselwiAisha/Vet-clinic-database.git
   cd Vet-clinic-database
 ```
-
 
 ### Usage
 
@@ -79,16 +75,17 @@ To run the project, execute the following command:
     psql postgres
 ```
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Aisha Alselwi**
+👤 **Afimia Fidelis Izebiafe**
 
 - GitHub: [Aisha Alselwi](https://github.com/AlselwiAisha/)
 - LinkedIn: [Aisha Alselwi](https://www.linkedin.com/in/aisha-alselwi/)
-
+- GitHub: [Izebiafe](https://github.com/Izebiafe/)
+- LinkedIn: [Afimia Fidelis](https://www.linkedin.com/in/Izebiafe/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,10 +93,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
--  **Create table**
--  **Inset into table**
-
+- **Create table**
+- **Inset into table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,12 +120,11 @@ Give a ⭐️ if you like this project! It's help a lot
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank from Microverse for providing project guidlines. 
+I would like to thank from Microverse for providing project guidlines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
